@@ -16,7 +16,10 @@ Fitur utama:
 
 Preview Aplikasi:
 -----------------
-[Masukkan screenshot atau link preview aplikasi di sini]
+<img width="1920" height="1080" alt="gambar" src="https://github.com/user-attachments/assets/99a05819-1e48-4691-90fb-2b6283985261" />
+<img width="1920" height="1080" alt="gambar" src="https://github.com/user-attachments/assets/11f04f39-23dc-4580-9df6-5863f98d8ea8" />
+<img width="1920" height="1080" alt="gambar" src="https://github.com/user-attachments/assets/15df24cf-1b51-41d0-bd37-fca34f2d4883" />
+
 
 Fitur Utama:
 ------------
@@ -52,6 +55,8 @@ Instruksi Penggunaan:
    - Pilih model AI.
    - Atur Temperature dan Max Tokens.
    - Klik 'New Chat' untuk chat baru atau pilih chat dari 'Chat History'.
+     
+   <img width="1920" height="1080" alt="gambar" src="https://github.com/user-attachments/assets/b4b808d2-6dc5-467e-8e47-2cbaf339aaf8" />
 
 4. Menggunakan Chat:
    - Ketik pesan di input chat bawah dan tekan Enter.
@@ -67,5 +72,5 @@ Tips:
 - Gunakan file PDF yang tidak terenkripsi agar AI bisa membaca teks.
 - Pastikan koneksi internet stabil saat menggunakan aplikasi.
 
-==============================
+
 
