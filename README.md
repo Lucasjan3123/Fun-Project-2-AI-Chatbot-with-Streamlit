@@ -51,7 +51,7 @@ Instruksi Penggunaan:
    - Ganti 'app.py' dengan nama file script jika berbeda.
 
 3. Menggunakan Sidebar:
-   - Masukkan API Key : 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
+   - Masukkan API Key : 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
    - Pilih model AI.
    - Atur Temperature dan Max Tokens.
    - Klik 'New Chat' untuk chat baru atau pilih chat dari 'Chat History'.
