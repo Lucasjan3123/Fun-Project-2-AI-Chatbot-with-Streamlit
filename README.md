@@ -55,9 +55,8 @@ Instruksi Penggunaan:
    - Pilih model AI.
    - Atur Temperature dan Max Tokens.
    - Klik 'New Chat' untuk chat baru atau pilih chat dari 'Chat History'.
-
-     
-     
+   &nbsp;
+   &nbsp;
    <img width="1920" height="1080" alt="gambar" src="https://github.com/user-attachments/assets/b4b808d2-6dc5-467e-8e47-2cbaf339aaf8" />
 
 4. Menggunakan Chat:
