@@ -2,8 +2,6 @@
 AI Chatbot with streamlit and hugging face
 
 
-
-==============================
 🤖 AI Chatbot with Streamlit
 ==============================
 
